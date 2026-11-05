@@ -1,1 +1,3 @@
-Upload the files in this folder to the root of your GitHub Pages repository. The updated index.html adds Opportunity Scholarship county comparisons.
+TIP Market Share Explorer
+
+Upload these extracted files to the root of your existing GitHub repository, replacing the matching files. Commit changes to update GitHub Pages.
