@@ -1,15 +1,13 @@
 # TIP Market Share Explorer
 
-A standalone dashboard covering homeschool enrollment, private schools, and Opportunity Scholarships for TIP member districts. Dashboard snapshots cover 2022–23 through 2025–26. The included PDF report is the earlier edition and has not been expanded to four years.
-
-## Update your existing GitHub website
+## Update your GitHub Pages website
 
 1. Extract this ZIP.
 2. Open your tip-homeschool-explorer repository on GitHub.
 3. Select Add file → Upload files.
-4. Upload the files inside this folder directly to the repository root, replacing matching files. Do not upload the ZIP or the enclosing folder.
-5. Commit changes. GitHub Pages will update automatically.
+4. Upload the extracted files directly to the repository root, replacing matching files. Do not upload the ZIP or enclosing folder.
+5. Commit changes. GitHub Pages will rebuild automatically.
 
-Your website: https://bwiggs-rgb.github.io/tip-homeschool-explorer/
+Includes four-year homeschool and Opportunity Scholarship snapshots, district enrollment trends for 2022-23 through 2025-26, and county population ages 5-17 for July 2022 through July 2025.
 
-No installation or build is needed. Keep index.html, data.json, and tip-homeschool-report.pdf together. The .nojekyll file may be hidden on your computer; your existing GitHub Pages site can still update with the three visible website files.
+No build or installation is required. The PDF is the reference report created before the enrollment/population tab was added.
