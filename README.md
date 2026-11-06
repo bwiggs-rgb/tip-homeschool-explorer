@@ -1,12 +1,7 @@
-# TIP Market Share Explorer
+TIP MARKET SHARE EXPLORER
 
-## Update GitHub Pages
-1. Extract this ZIP.
-2. Open your tip-homeschool-explorer repository on GitHub.
-3. Select Add file → Upload files.
-4. Upload the extracted files directly to the repository root, replacing matching files. Do not upload the enclosing folder or ZIP.
-5. Commit changes. GitHub Pages will update automatically.
+Upload all extracted files and the reports folder to the root of your existing GitHub repository. Commit changes. Keep GitHub Pages set to main / (root).
 
-Includes the latest website, four-year data, Explore the connections, Insights & strategies with cited cases, and the updated PDF reference report with suggested next steps.
+All portal views compare 2022-23, 2023-24 and 2024-25. Latest available and Insights and strategies have been removed. Original source data is retained in the download for provenance; snapshotYears identifies the three-year comparison period.
 
-No installation or build is required.
+PDFs: 20 five-page district reports and one 100-page combined report; data only, with the same three-year core period. Official source links are included; interactive website links are excluded.
