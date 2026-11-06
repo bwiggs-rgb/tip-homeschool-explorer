@@ -1,0 +1,344 @@
+County,School year,School code,School name,School type,Final ADM
+Cabarrus,2022-23,13A,Carolina International School,Charter,712
+Cabarrus,2022-23,13B,Cabarrus Charter Academy,Charter,637
+Cabarrus,2022-23,13C,A.C.E. Academy,Charter,392
+Cabarrus,2022-23,13D,Concord Lake STEAM Academy,Charter,585
+Cabarrus,2023-24,13A,Carolina International School,Charter,734
+Cabarrus,2023-24,13B,Cabarrus Charter Academy,Charter,768
+Cabarrus,2023-24,13C,A.C.E. Academy,Charter,431
+Cabarrus,2023-24,13D,Concord Lake STEAM Academy,Charter,671
+Cabarrus,2024-25,13A,Carolina International School,Charter,713
+Cabarrus,2024-25,13B,Valor Preparatory Academy,Charter,641
+Cabarrus,2024-25,13C,A.C.E. Academy,Charter,406
+Cabarrus,2024-25,13D,Concord Lake STEAM Academy,Charter,794
+Cumberland,2022-23,26B,Alpha Academy,Charter,1054
+Cumberland,2022-23,26C,The Capitol Encore Academy,Charter,681
+Cumberland,2023-24,26B,Alpha Academy,Charter,988
+Cumberland,2023-24,26C,The Capitol Encore Academy,Charter,775
+Cumberland,2024-25,26B,Alpha Academy,Charter,946
+Cumberland,2024-25,26C,The Capitol Encore Academy,Charter,814
+Davidson,2022-23,29A,Davidson Charter Academy,Charter,556
+Davidson,2023-24,29A,Davidson Charter Academy,Charter,577
+Davidson,2024-25,29A,Davidson Charter Academy,Charter,621
+Durham,2022-23,00A,North Carolina Cyber Academy,Charter,2387
+Durham,2022-23,00B,NC Virtual Academy,Charter,2862
+Durham,2022-23,32A,Maureen Joy Charter,Charter,607
+Durham,2022-23,32B,Healthy Start Academy,Charter,632
+Durham,2022-23,32C,Community School of Digital and Visual A,Charter,202
+Durham,2022-23,32D,Kestrel Heights School,Charter,414
+Durham,2022-23,32H,Research Triangle Charter,Charter,692
+Durham,2022-23,32K,Central Park School For Children,Charter,575
+Durham,2022-23,32L,Voyager Academy,Charter,1351
+Durham,2022-23,32M,Global Scholars Academy,Charter,213
+Durham,2022-23,32N,Research Triangle High School,Charter,573
+Durham,2022-23,32P,The Institute for the Development of You,Charter,380
+Durham,2022-23,32Q,Reaching All Minds Academy,Charter,383
+Durham,2022-23,32R,Excelsior Classical Academy,Charter,976
+Durham,2022-23,32S,KIPP Durham College Preparatory,Charter,298
+Durham,2022-23,32T,Discovery Charter School,Charter,324
+Durham,2023-24,00A,North Carolina Cyber Academy,Charter,2421
+Durham,2023-24,00B,NC Virtual Academy,Charter,3015
+Durham,2023-24,32A,Maureen Joy Charter,Charter,614
+Durham,2023-24,32B,Healthy Start Academy,Charter,762
+Durham,2023-24,32C,Community School of Digital and Visual A,Charter,178
+Durham,2023-24,32D,Kestrel Heights School,Charter,439
+Durham,2023-24,32H,Research Triangle Charter,Charter,722
+Durham,2023-24,32K,Central Park School For Children,Charter,591
+Durham,2023-24,32L,Voyager Academy,Charter,1342
+Durham,2023-24,32M,Global Scholars Academy,Charter,195
+Durham,2023-24,32N,Research Triangle High School,Charter,558
+Durham,2023-24,32P,The Institute for the Development of You,Charter,389
+Durham,2023-24,32Q,Reaching All Minds Academy,Charter,376
+Durham,2023-24,32R,Excelsior Classical Academy,Charter,1017
+Durham,2023-24,32S,KIPP Durham College Preparatory,Charter,353
+Durham,2023-24,32T,Discovery Charter School,Charter,403
+Durham,2024-25,00A,North Carolina Cyber Academy,Charter,2442
+Durham,2024-25,00B,NC Virtual Academy,Charter,3474
+Durham,2024-25,32A,Maureen Joy Charter,Charter,619
+Durham,2024-25,32B,Healthy Start Academy,Charter,988
+Durham,2024-25,32C,Community School of Digital and Visual A,Charter,199
+Durham,2024-25,32D,Kestrel Heights School,Charter,414
+Durham,2024-25,32H,Research Triangle Charter,Charter,711
+Durham,2024-25,32K,Central Park School For Children,Charter,570
+Durham,2024-25,32L,Voyager Academy,Charter,1344
+Durham,2024-25,32M,Global Scholars Academy,Charter,197
+Durham,2024-25,32N,Research Triangle High School,Charter,567
+Durham,2024-25,32P,The Institute for the Development of You,Charter,405
+Durham,2024-25,32Q,Reaching All Minds Academy,Charter,390
+Durham,2024-25,32R,Excelsior Classical Academy,Charter,1023
+Durham,2024-25,32S,KIPP Durham College Preparatory,Charter,371
+Durham,2024-25,32T,Discovery Charter School,Charter,453
+Edgecombe,2022-23,33A,North East Carolina Preparatory School,Charter,909
+Edgecombe,2023-24,33A,North East Carolina Preparatory School,Charter,1006
+Edgecombe,2024-25,33A,North East Carolina Preparatory School,Charter,1052
+Forsyth,2022-23,34B,Quality Education Academy,Charter,651
+Forsyth,2022-23,34D,Carter G Woodson School,Charter,420
+Forsyth,2022-23,34F,Forsyth Academy,Charter,719
+Forsyth,2022-23,34G,Arts Based School,Charter,570
+Forsyth,2022-23,34H,NC Leadership Charter Academy,Charter,1106
+Forsyth,2022-23,34Z,Appalachian State U Academy Middle Fork,University laboratory,255
+Forsyth,2023-24,34B,Quality Education Academy,Charter,652
+Forsyth,2023-24,34D,Carter G Woodson School,Charter,492
+Forsyth,2023-24,34F,Forsyth Academy,Charter,742
+Forsyth,2023-24,34G,Arts Based School,Charter,609
+Forsyth,2023-24,34H,NC Leadership Charter Academy,Charter,1150
+Forsyth,2023-24,34Z,Appalachian State U Academy Middle Fork,University laboratory,278
+Forsyth,2024-25,34B,Quality Education Academy,Charter,748
+Forsyth,2024-25,34D,Carter G Woodson School,Charter,446
+Forsyth,2024-25,34F,Forsyth Academy,Charter,712
+Forsyth,2024-25,34G,Arts Based School,Charter,660
+Forsyth,2024-25,34H,NC Leadership Charter Academy,Charter,1480
+Forsyth,2024-25,34Z,Appalachian State U Academy Middle Fork,University laboratory,290
+Guilford,2022-23,41B,Greensboro Academy,Charter,762
+Guilford,2022-23,41C,Guilford Preparatory Academy,Charter,522
+Guilford,2022-23,41D,Phoenix Academy Inc,Charter,1245
+Guilford,2022-23,41F,Triad Math and Science Academy,Charter,1267
+Guilford,2022-23,41G,Cornerstone Charter Academy,Charter,1330
+Guilford,2022-23,41H,The College Preparatory and Leadership A,Charter,769
+Guilford,2022-23,41J,Summerfield Charter Academy,Charter,771
+Guilford,2022-23,41K,Piedmont Classical High School,Charter,409
+Guilford,2022-23,41L,Gate City Charter Academy,Charter,661
+Guilford,2022-23,41M,Next Generation Academy,Charter,407
+Guilford,2022-23,41N,The Experiential School of Greensboro,Charter,311
+Guilford,2022-23,41Q,Revolution Academy,Charter,722
+Guilford,2022-23,41R,Summit Creek Academy,Charter,551
+Guilford,2022-23,41Z,Aggie Academy,University laboratory,70
+Guilford,2023-24,41B,Greensboro Academy,Charter,763
+Guilford,2023-24,41C,Guilford Preparatory Academy,Charter,593
+Guilford,2023-24,41D,Phoenix Academy Inc,Charter,1475
+Guilford,2023-24,41F,Triad Math and Science Academy,Charter,1283
+Guilford,2023-24,41G,Cornerstone Charter Academy,Charter,1338
+Guilford,2023-24,41H,The College Preparatory and Leadership A,Charter,841
+Guilford,2023-24,41J,Summerfield Charter Academy,Charter,784
+Guilford,2023-24,41K,Piedmont Classical High School,Charter,444
+Guilford,2023-24,41L,Gate City Charter Academy,Charter,691
+Guilford,2023-24,41M,Next Generation Academy,Charter,414
+Guilford,2023-24,41N,The Experiential School of Greensboro,Charter,259
+Guilford,2023-24,41Q,Revolution Academy,Charter,724
+Guilford,2023-24,41R,Summit Creek Academy,Charter,662
+Guilford,2023-24,41Z,Aggie Academy,University laboratory,81
+Guilford,2024-25,41B,Greensboro Academy,Charter,772
+Guilford,2024-25,41C,Guilford Preparatory Academy,Charter,659
+Guilford,2024-25,41D,Phoenix Academy Inc,Charter,1523
+Guilford,2024-25,41F,Triad Math and Science Academy,Charter,1331
+Guilford,2024-25,41G,Cornerstone Charter Academy,Charter,1337
+Guilford,2024-25,41H,The College Preparatory and Leadership A,Charter,866
+Guilford,2024-25,41J,Summerfield Charter Academy,Charter,770
+Guilford,2024-25,41K,Piedmont Classical High School,Charter,450
+Guilford,2024-25,41L,Gate City Charter Academy,Charter,687
+Guilford,2024-25,41M,Next Generation Academy,Charter,457
+Guilford,2024-25,41N,The Experiential School of Greensboro,Charter,179
+Guilford,2024-25,41Q,Revolution Academy,Charter,898
+Guilford,2024-25,41R,Summit Creek Academy,Charter,732
+Guilford,2024-25,41Z,Aggie Academy,University laboratory,85
+Mecklenburg,2022-23,60B,Sugar Creek Charter,Charter,1518
+Mecklenburg,2022-23,60D,Lake Norman Charter,Charter,2203
+Mecklenburg,2022-23,60F,Metrolina Regional Scholars Academy,Charter,390
+Mecklenburg,2022-23,60G,Queen's Grant Community School,Charter,1305
+Mecklenburg,2022-23,60I,Community School of Davidson,Charter,1493
+Mecklenburg,2022-23,60J,Socrates Academy,Charter,857
+Mecklenburg,2022-23,60K,Charlotte Secondary School,Charter,168
+Mecklenburg,2022-23,60L,KIPP: Charlotte,Charter,878
+Mecklenburg,2022-23,60M,Corvian Community School,Charter,1270
+Mecklenburg,2022-23,60N,Aristotle Preparatory Academy,Charter,138
+Mecklenburg,2022-23,60P,Eastside STREAM Academy,Charter,281
+Mecklenburg,2022-23,60Q,Invest Collegiate,Charter,310
+Mecklenburg,2022-23,60S,Bradford Preparatory School,Charter,1491
+Mecklenburg,2022-23,60U,Commonwealth High School,Charter,286
+Mecklenburg,2022-23,60Y,Pioneer Springs Community School,Charter,504
+Mecklenburg,2022-23,60Z,Niner University Elementary School,University laboratory,131
+Mecklenburg,2022-23,61J,Lakeside Charter Academy,Charter,225
+Mecklenburg,2022-23,61K,United Community School,Charter,236
+Mecklenburg,2022-23,61L,Stewart Creek High School,Charter,273
+Mecklenburg,2022-23,61M,Charlotte Lab School,Charter,957
+Mecklenburg,2022-23,61N,Queen City STEM School,Charter,694
+Mecklenburg,2022-23,61P,VERITAS Community School,Charter,160
+Mecklenburg,2022-23,61Q,Mallard Creek STEM Academy,Charter,928
+Mecklenburg,2022-23,61R,Matthews Charter Academy,Charter,753
+Mecklenburg,2022-23,61S,Unity Classical Charter School,Charter,576
+Mecklenburg,2022-23,61T,Movement Charter School,Charter,638
+Mecklenburg,2022-23,61V,Bonnie Cone Classical Academy,Charter,842
+Mecklenburg,2022-23,61W,East Voyager Academy,Charter,148
+Mecklenburg,2022-23,61X,Jackson Day School,Charter,809
+Mecklenburg,2022-23,61Y,Steele Creek Preparatory Academy,Charter,417
+Mecklenburg,2022-23,62J,Southwest Charlotte STEM Academy,Charter,788
+Mecklenburg,2022-23,62K,Movement School Eastland,Charter,380
+Mecklenburg,2022-23,62L,Telra Institute,Charter,461
+Mecklenburg,2022-23,62P,Movement School Southwest,Charter,119
+Mecklenburg,2023-24,60B,Sugar Creek Charter,Charter,1499
+Mecklenburg,2023-24,60D,Lake Norman Charter,Charter,2206
+Mecklenburg,2023-24,60F,Metrolina Regional Scholars Academy,Charter,398
+Mecklenburg,2023-24,60G,Queen's Grant Community School,Charter,1312
+Mecklenburg,2023-24,60I,Community School of Davidson,Charter,1557
+Mecklenburg,2023-24,60J,Socrates Academy,Charter,945
+Mecklenburg,2023-24,60K,Charlotte Secondary School,Charter,166
+Mecklenburg,2023-24,60L,KIPP: Charlotte,Charter,883
+Mecklenburg,2023-24,60M,Corvian Community School,Charter,1259
+Mecklenburg,2023-24,60N,Aristotle Preparatory Academy,Charter,121
+Mecklenburg,2023-24,60S,Bradford Preparatory School,Charter,1519
+Mecklenburg,2023-24,60U,Commonwealth High School,Charter,346
+Mecklenburg,2023-24,60Y,Pioneer Springs Community School,Charter,554
+Mecklenburg,2023-24,60Z,Niner University Elementary School,University laboratory,130
+Mecklenburg,2023-24,61J,Lakeside Charter Academy,Charter,256
+Mecklenburg,2023-24,61K,United Community School,Charter,241
+Mecklenburg,2023-24,61L,Stewart Creek High School,Charter,338
+Mecklenburg,2023-24,61M,Charlotte Lab School,Charter,968
+Mecklenburg,2023-24,61N,Queen City STEM School,Charter,677
+Mecklenburg,2023-24,61P,VERITAS Community School,Charter,150
+Mecklenburg,2023-24,61Q,Mallard Creek STEM Academy,Charter,938
+Mecklenburg,2023-24,61R,Matthews Charter Academy,Charter,761
+Mecklenburg,2023-24,61S,Unity Classical Charter School,Charter,737
+Mecklenburg,2023-24,61T,Movement Charter School,Charter,718
+Mecklenburg,2023-24,61V,Bonnie Cone Classical Academy,Charter,527
+Mecklenburg,2023-24,61W,East Voyager Academy,Charter,162
+Mecklenburg,2023-24,61X,Jackson Day School,Charter,890
+Mecklenburg,2023-24,61Y,Steele Creek Preparatory Academy,Charter,371
+Mecklenburg,2023-24,62J,Southwest Charlotte STEM Academy,Charter,815
+Mecklenburg,2023-24,62K,Movement School Eastland,Charter,474
+Mecklenburg,2023-24,62L,Telra Institute,Charter,529
+Mecklenburg,2023-24,62M,Bonnie Cone Leadership Academy,Charter,1028
+Mecklenburg,2023-24,62N,Aspire Trade High School,Charter,184
+Mecklenburg,2023-24,62P,Movement School Southwest,Charter,207
+Mecklenburg,2023-24,62R,Movement School Northwest,Charter,105
+Mecklenburg,2024-25,60B,Sugar Creek Charter,Charter,1532
+Mecklenburg,2024-25,60D,Lake Norman Charter,Charter,2211
+Mecklenburg,2024-25,60F,Metrolina Regional Scholars Academy,Charter,396
+Mecklenburg,2024-25,60G,Queen's Grant Community School,Charter,1326
+Mecklenburg,2024-25,60I,Community School of Davidson,Charter,1623
+Mecklenburg,2024-25,60J,Socrates Academy,Charter,1022
+Mecklenburg,2024-25,60K,Charlotte Secondary School,Charter,161
+Mecklenburg,2024-25,60L,KIPP: Charlotte,Charter,782
+Mecklenburg,2024-25,60M,Corvian Community School,Charter,1368
+Mecklenburg,2024-25,60N,ALA Charlotte,Charter,269
+Mecklenburg,2024-25,60S,Bradford Preparatory School,Charter,1546
+Mecklenburg,2024-25,60U,Commonwealth High School,Charter,382
+Mecklenburg,2024-25,60Y,Pioneer Springs Community School,Charter,543
+Mecklenburg,2024-25,60Z,Niner University Elementary School,University laboratory,121
+Mecklenburg,2024-25,61J,Lakeside Charter Academy,Charter,216
+Mecklenburg,2024-25,61K,United Community School,Charter,231
+Mecklenburg,2024-25,61L,Stewart Creek High School,Charter,345
+Mecklenburg,2024-25,61M,Charlotte Lab School,Charter,792
+Mecklenburg,2024-25,61N,The Math and Science Academy of Charlott,Charter,714
+Mecklenburg,2024-25,61Q,Mallard Creek STEM Academy,Charter,944
+Mecklenburg,2024-25,61R,Matthews Charter Academy,Charter,763
+Mecklenburg,2024-25,61S,Unity Classical Charter School,Charter,903
+Mecklenburg,2024-25,61T,Movement Charter School,Charter,600
+Mecklenburg,2024-25,61V,Bonnie Cone Classical Academy,Charter,636
+Mecklenburg,2024-25,61W,East Voyager Academy,Charter,186
+Mecklenburg,2024-25,61X,Jackson Day School,Charter,878
+Mecklenburg,2024-25,61Y,Steele Creek Preparatory Academy,Charter,293
+Mecklenburg,2024-25,62J,Southwest Charlotte STEM Academy,Charter,859
+Mecklenburg,2024-25,62K,Movement School Eastland,Charter,486
+Mecklenburg,2024-25,62L,Telra Institute,Charter,626
+Mecklenburg,2024-25,62M,Bonnie Cone Leadership Academy,Charter,1231
+Mecklenburg,2024-25,62N,Aspire Trade High School,Charter,249
+Mecklenburg,2024-25,62P,Movement School Southwest,Charter,259
+Mecklenburg,2024-25,62R,Movement School Northwest,Charter,207
+Orange,2022-23,68A,Eno River Academy,Charter,751
+Orange,2022-23,68C,The Expedition School,Charter,358
+Orange,2023-24,68A,Eno River Academy,Charter,797
+Orange,2023-24,68C,The Expedition School,Charter,360
+Orange,2024-25,68A,Eno River Academy,Charter,820
+Orange,2024-25,68C,The Expedition School,Charter,381
+Pasquotank,2022-23,70A,Northeast Academy of Aerospace & AdvTech,Charter,741
+Pasquotank,2023-24,70A,Northeast Academy of Aerospace & AdvTech,Charter,745
+Pasquotank,2024-25,70A,Northeast Academy of Aerospace & AdvTech,Charter,747
+Randolph,2022-23,76A,Uwharrie Charter Academy,Charter,1854
+Randolph,2023-24,76A,Uwharrie Charter Academy,Charter,2093
+Randolph,2024-25,76A,Uwharrie Charter Academy,Charter,2209
+Rockingham,2022-23,79A,Bethany Community School,Charter,620
+Rockingham,2022-23,79Z,Moss Street Partnership School,University laboratory,329
+Rockingham,2023-24,79A,Bethany Community School,Charter,603
+Rockingham,2023-24,79C,Legacy Classical,Charter,119
+Rockingham,2024-25,79A,Bethany Community School,Charter,632
+Rockingham,2024-25,79C,Legacy Classical,Charter,192
+Rowan,2022-23,80C,Faith Academy,Charter,586
+Rowan,2023-24,80C,Faith Academy,Charter,773
+Rowan,2024-25,80C,Faith Academy,Charter,926
+Vance,2022-23,91A,Vance Charter School,Charter,952
+Vance,2022-23,91B,Henderson Collegiate,Charter,1284
+Vance,2023-24,91A,Vance Charter School,Charter,944
+Vance,2023-24,91B,Henderson Collegiate,Charter,1277
+Vance,2024-25,91A,Vance Charter School,Charter,947
+Vance,2024-25,91B,Henderson Collegiate,Charter,1291
+Wake,2022-23,92B,The Exploris School,Charter,427
+Wake,2022-23,92D,Magellan Charter,Charter,404
+Wake,2022-23,92E,Sterling Montessori Academy,Charter,615
+Wake,2022-23,92F,Franklin Academy,Charter,1634
+Wake,2022-23,92G,East Wake Academy,Charter,1209
+Wake,2022-23,92K,Raleigh Charter High School,Charter,559
+Wake,2022-23,92M,PreEminent Charter School,Charter,698
+Wake,2022-23,92N,Quest Academy,Charter,142
+Wake,2022-23,92P,Southern Wake Academy,Charter,555
+Wake,2022-23,92R,Casa Esperanza Montessori,Charter,596
+Wake,2022-23,92S,Endeavor Charter,Charter,762
+Wake,2022-23,92T,Triangle Math and Science Academy,Charter,1253
+Wake,2022-23,92U,Longleaf School of the Arts,Charter,390
+Wake,2022-23,92V,Wake Forest Charter Academy,Charter,664
+Wake,2022-23,92W,Cardinal Charter,Charter,703
+Wake,2022-23,92Y,Envision Science Academy,Charter,734
+Wake,2022-23,93J,RISE Southeast Raleigh Charter School,Charter,467
+Wake,2022-23,93L,Central Wake Charter High School,Charter,210
+Wake,2022-23,93M,Peak Charter Academy,Charter,756
+Wake,2022-23,93N,Pine Springs Preparatory Academy,Charter,1236
+Wake,2022-23,93P,Rolesville Charter Academy,Charter,627
+Wake,2022-23,93Q,Carolina Charter Academy: CFA,Charter,728
+Wake,2022-23,93R,Raleigh Oak Charter School,Charter,286
+Wake,2022-23,93T,Cardinal Charter Academy at Wendell Falls,Charter,720
+Wake,2022-23,93V,Doral Academy North Carolina,Charter,319
+Wake,2022-23,93Y,The Math and Science Academy (TMSA) Apex,Charter,605
+Wake,2023-24,92B,The Exploris School,Charter,440
+Wake,2023-24,92D,Magellan Charter,Charter,409
+Wake,2023-24,92E,Sterling Montessori Academy,Charter,627
+Wake,2023-24,92F,Franklin Academy,Charter,1639
+Wake,2023-24,92G,East Wake Academy,Charter,1231
+Wake,2023-24,92K,Raleigh Charter High School,Charter,554
+Wake,2023-24,92M,PreEminent Charter School,Charter,690
+Wake,2023-24,92N,Quest Academy,Charter,144
+Wake,2023-24,92P,Southern Wake Academy,Charter,537
+Wake,2023-24,92R,Casa Esperanza Montessori,Charter,641
+Wake,2023-24,92S,Endeavor Charter,Charter,782
+Wake,2023-24,92T,Triangle Math and Science Academy,Charter,1324
+Wake,2023-24,92U,Longleaf School of the Arts,Charter,408
+Wake,2023-24,92V,Wake Forest Charter Academy,Charter,732
+Wake,2023-24,92W,Cardinal Charter,Charter,701
+Wake,2023-24,92Y,Envision Science Academy,Charter,741
+Wake,2023-24,93J,RISE Southeast Raleigh Charter School,Charter,470
+Wake,2023-24,93L,Central Wake Charter High School,Charter,263
+Wake,2023-24,93M,Peak Charter Academy,Charter,769
+Wake,2023-24,93N,Pine Springs Preparatory Academy,Charter,1260
+Wake,2023-24,93P,Rolesville Charter Academy,Charter,738
+Wake,2023-24,93Q,Carolina Charter Academy: CFA,Charter,799
+Wake,2023-24,93R,Raleigh Oak Charter School,Charter,269
+Wake,2023-24,93T,Cardinal Charter Academy at Wendell Falls,Charter,588
+Wake,2023-24,93V,Doral Academy North Carolina,Charter,452
+Wake,2023-24,93Y,The Math and Science Academy (TMSA) Apex,Charter,683
+Wake,2024-25,92B,The Exploris School,Charter,441
+Wake,2024-25,92D,Magellan Charter,Charter,410
+Wake,2024-25,92E,Sterling Montessori Academy,Charter,599
+Wake,2024-25,92F,Franklin Academy,Charter,1647
+Wake,2024-25,92G,East Wake Academy,Charter,1251
+Wake,2024-25,92K,Raleigh Charter High School,Charter,549
+Wake,2024-25,92M,PreEminent Charter School,Charter,656
+Wake,2024-25,92N,Quest Academy,Charter,138
+Wake,2024-25,92P,Southern Wake Academy,Charter,506
+Wake,2024-25,92R,Casa Esperanza Montessori,Charter,720
+Wake,2024-25,92S,Endeavor Charter,Charter,797
+Wake,2024-25,92T,Triangle Math and Science Academy,Charter,1900
+Wake,2024-25,92U,Longleaf School of the Arts,Charter,391
+Wake,2024-25,92V,Wake Forest Charter Academy,Charter,647
+Wake,2024-25,92W,Cardinal Charter,Charter,565
+Wake,2024-25,92Y,Envision Science Academy,Charter,752
+Wake,2024-25,93J,RISE Southeast Raleigh Charter School,Charter,465
+Wake,2024-25,93L,Central Wake Charter High School,Charter,297
+Wake,2024-25,93M,Peak Charter Academy,Charter,646
+Wake,2024-25,93N,Pine Springs Preparatory Academy,Charter,3386
+Wake,2024-25,93P,Rolesville Charter Academy,Charter,707
+Wake,2024-25,93Q,Carolina Charter Academy: CFA,Charter,766
+Wake,2024-25,93R,Raleigh Oak Charter School,Charter,355
+Wake,2024-25,93T,Cardinal Charter Academy at Wendell Falls,Charter,528
+Wake,2024-25,93V,Doral Academy North Carolina,Charter,580
+Wake,2024-25,93Y,The Math and Science Academy of Apex,Charter,1063
+Warren,2022-23,93A,Haliwa-Saponi Tribal School,Charter,137
+Warren,2023-24,93A,Haliwa-Saponi Tribal School,Charter,142
+Warren,2024-25,93A,Haliwa-Saponi Tribal School,Charter,140
