@@ -117,7 +117,7 @@ endobj
 /URI (https\072\057\057dashboard\056myfuturenc\056org\057wp\055content\057uploads\0572024\05707\057MFNC\137Attainment\137Profile\137Data\137Summary\1372024\056xlsx)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 160.0971 96.04 190.5498 106 ]
+/Rect [ 163.7906 96.04 194.2433 106 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -130,7 +130,7 @@ endobj
 /URI (https\072\057\057dashboard\056myfuturenc\056org\057wp\055content\057uploads\0572025\05702\0572025\137MFNC\137Attainment\137Profile\137Data\137Summary\056xlsx)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 197.3226 96.04 227.7753 106 ]
+/Rect [ 201.0161 96.04 231.4688 106 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -143,7 +143,7 @@ endobj
 /URI (https\072\057\057dashboard\056myfuturenc\056org\057wp\055content\057uploads\0572026\05710\0572026\137MFNC\137Attainment\137Profile\137Data\137Summary\056xlsx)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 234.5481 96.04 265.0008 106 ]
+/Rect [ 238.2416 96.04 268.6943 106 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -166,10 +166,10 @@ endobj
 /A <<
 /S /URI
 /Type /Action
-/URI (https\072\057\057apps\056schools\056nc\056gov\057public\057f\077p\075145\072124\072\072\072\072\072\072)
+/URI (https\072\057\057apps\056schools\056nc\056gov\057public\057f\077p\075145\072103\072\072\072\072\072\072)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 66 142.04 129.6527 152 ]
+/Rect [ 66 142.04 167.9323 152 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -182,7 +182,7 @@ endobj
 /URI (https\072\057\057www\056census\056gov\057data\057tables\057time\055series\057demo\057popest\0572020s\055counties\055detail\056html)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 136.4255 142.04 245.2966 152 ]
+/Rect [ 174.7051 142.04 283.5762 152 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -273,7 +273,7 @@ endobj
 endobj
 29 0 obj
 <<
-/Length 14557
+/Length 14609
 >>
 stream
 q
@@ -1050,7 +1050,7 @@ q
 1 0 0 1 66 182 cm
 q
 .392157 .392157 .478431 rg
-BT 1 0 0 1 0 24.7 Tm /F1 8.3 Tf 11 TL (Every share uses the same-year county total across all four sectors. A sector can gain students while losing share if other sectors) Tj T* -0.113764 Tw (grow faster. County-associated enrollment counts can include cross-county attendance; these are administrative market indicators, not) Tj T* 0 Tw (a census of where resident children attend school.) Tj T* ET
+BT 1 0 0 1 0 24.7 Tm /F1 8.3 Tf 11 TL (Every share uses the same-year county total across all four sectors. District-public counts use refreshed DPI final ADM; other sectors) Tj T* (retain the published compilation values. A sector can gain students while losing share if other sectors grow faster. County-associated) Tj T* (counts can include cross-county attendance; these are administrative market indicators, not a resident-child census.) Tj T* ET
 Q
 Q
 q
@@ -1070,7 +1070,7 @@ Q
 q
 1 0 0 1 66 95 cm
 q
-BT 1 0 0 1 0 2.7 Tm 11 TL /F1 8.3 Tf .392157 .392157 .478431 rg (Public sector workbooks: ) Tj .145098 .129412 .658824 rg (2022-23) Tj .392157 .392157 .478431 rg ( | ) Tj .145098 .129412 .658824 rg (2023-24) Tj .392157 .392157 .478431 rg ( | ) Tj .145098 .129412 .658824 rg (2024-25) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 11 TL /F1 8.3 Tf .392157 .392157 .478431 rg (County sector workbooks: ) Tj .145098 .129412 .658824 rg (2022-23) Tj .392157 .392157 .478431 rg ( | ) Tj .145098 .129412 .658824 rg (2023-24) Tj .392157 .392157 .478431 rg ( | ) Tj .145098 .129412 .658824 rg (2024-25) Tj T* ET
 Q
 Q
  
@@ -1975,7 +1975,7 @@ endobj
 endobj
 35 0 obj
 <<
-/Length 15010
+/Length 15080
 >>
 stream
 q
@@ -2006,7 +2006,7 @@ q
 1 0 0 1 66 666 cm
 q
 .145098 .129412 .658824 rg
-BT 1 0 0 1 0 4 Tm /F2 23 Tf 27 TL (District membership across three years) Tj T* ET
+BT 1 0 0 1 0 4 Tm /F2 23 Tf 27 TL (District final ADM across three years) Tj T* ET
 Q
 Q
 q
@@ -2016,14 +2016,14 @@ q
 1 0 0 1 66 637 cm
 q
 .145098 .129412 .658824 rg
-BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (NC DPI month-2 membership last day \(MLD\) | individual districts) Tj T* ET
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (NC DPI Table A1 final average daily membership | individual districts) Tj T* ET
 Q
 Q
 q
 1 0 0 1 66 588 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Unlike county homeschool and scholarship figures, each row below describes the named district. All years use) Tj T* (the same month and measure. MLD is a membership count, not average daily membership \(ADM\) or market) Tj T* (share.) Tj T* ET
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Unlike county homeschool and scholarship figures, each row below describes the named district. All years use) Tj T* (final ADM. These same records are summed for the county public-sector totals used in market shares. ADM) Tj T* (averages membership across the school year; it is not a point-in-time headcount.) Tj T* ET
 Q
 Q
 q
@@ -2119,28 +2119,28 @@ q
 1 0 0 1 220 326 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,383) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,347) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 326 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,352) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,348) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 326 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,407) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,533) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 326 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+0.5%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+4.3%) Tj T* ET
 Q
 Q
 q
@@ -2154,28 +2154,28 @@ q
 1 0 0 1 220 309 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (34,721) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (34,593) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 309 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (35,055) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (34,889) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 309 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (35,260) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (34,999) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 309 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+1.6%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+1.2%) Tj T* ET
 Q
 Q
 q
@@ -2189,21 +2189,21 @@ q
 1 0 0 1 220 292 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (11,413) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (11,371) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 292 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (11,248) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (11,253) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 292 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (11,107) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (11,065) Tj T* ET
 Q
 Q
 q
@@ -2224,28 +2224,28 @@ q
 1 0 0 1 220 275 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (141,542) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (140,437) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 275 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (141,393) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (140,199) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 275 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (142,235) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (140,801) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 275 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+0.5%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+0.3%) Tj T* ET
 Q
 Q
 q
@@ -2259,28 +2259,28 @@ q
 1 0 0 1 220 258 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (48,941) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (48,300) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 258 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (48,512) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (47,816) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 258 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (48,597) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (47,840) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 258 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-0.7%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-1.0%) Tj T* ET
 Q
 Q
 q
@@ -2294,28 +2294,28 @@ q
 1 0 0 1 220 241 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (31,187) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (30,736) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 241 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (31,031) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (30,735) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 241 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (31,188) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (30,722) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 241 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+0.0%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-0.0%) Tj T* ET
 Q
 Q
 q
@@ -2329,28 +2329,28 @@ q
 1 0 0 1 220 224 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (5,260) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (5,203) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 224 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (5,167) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (5,098) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 224 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (6,194) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (6,106) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 224 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+17.8%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+17.4%) Tj T* ET
 Q
 Q
 q
@@ -2364,28 +2364,28 @@ q
 1 0 0 1 220 207 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,689) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,612) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 207 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,603) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,562) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 207 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,613) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,570) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 207 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-1.6%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-0.9%) Tj T* ET
 Q
 Q
 q
@@ -2399,28 +2399,28 @@ q
 1 0 0 1 220 190 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (67,792) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (66,817) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 190 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (66,622) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (65,805) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 190 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (66,217) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (65,633) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 190 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.3%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-1.8%) Tj T* ET
 Q
 Q
 q
@@ -2434,28 +2434,28 @@ q
 1 0 0 1 220 173 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,371) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,328) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 173 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,333) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,274) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 173 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,226) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,178) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 173 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-6.1%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-6.4%) Tj T* ET
 Q
 Q
 q
@@ -2469,28 +2469,28 @@ q
 1 0 0 1 220 156 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,926) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,881) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 156 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,853) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,848) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 156 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,859) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,803) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 156 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.3%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.7%) Tj T* ET
 Q
 Q
 q
@@ -2504,28 +2504,28 @@ q
 1 0 0 1 220 139 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,109) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,066) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 139 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (6,990) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (6,964) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 139 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (6,911) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (6,883) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 139 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.8%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.6%) Tj T* ET
 Q
 Q
 q
@@ -2539,28 +2539,28 @@ q
 1 0 0 1 220 122 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (10,952) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (10,787) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 122 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (11,161) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (10,968) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 122 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (10,869) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (10,692) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 122 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-0.8%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-0.9%) Tj T* ET
 Q
 Q
 q
@@ -2574,28 +2574,28 @@ q
 1 0 0 1 220 105 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (18,076) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (17,769) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 105 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (17,909) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (17,604) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 105 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (17,673) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (17,436) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 105 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.2%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-1.9%) Tj T* ET
 Q
 Q
 q
@@ -2609,28 +2609,28 @@ q
 1 0 0 1 220 88 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,764) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,709) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 88 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,901) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,820) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 88 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,815) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (7,716) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 88 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+0.7%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+0.1%) Tj T* ET
 Q
 Q
 q
@@ -2644,28 +2644,28 @@ q
 1 0 0 1 220 71 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,154) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,126) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 71 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,119) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,102) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 71 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,100) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (2,087) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 71 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.5%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-1.8%) Tj T* ET
 Q
 Q
 q
@@ -2679,28 +2679,28 @@ q
 1 0 0 1 220 54 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,995) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,897) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 54 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (5,123) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (5,069) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 54 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,968) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (4,913) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 54 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-0.5%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+0.3%) Tj T* ET
 Q
 Q
 q
@@ -2714,28 +2714,28 @@ q
 1 0 0 1 220 37 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (159,027) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (157,847) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 37 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (160,633) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (159,675) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 37 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (161,619) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (160,489) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 37 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+1.6%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (+1.7%) Tj T* ET
 Q
 Q
 q
@@ -2749,28 +2749,28 @@ q
 1 0 0 1 220 20 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (1,731) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (1,702) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 20 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (1,626) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (1,583) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 20 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (1,510) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (1,475) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 20 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-12.8%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-13.3%) Tj T* ET
 Q
 Q
 q
@@ -2784,28 +2784,28 @@ q
 1 0 0 1 220 3 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (51,994) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (51,430) Tj T* ET
 Q
 Q
 q
 1 0 0 1 296 3 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (51,372) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (50,789) Tj T* ET
 Q
 Q
 q
 1 0 0 1 372 3 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (50,737) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (50,105) Tj T* ET
 Q
 Q
 q
 1 0 0 1 448 3 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.4%) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F1 8.2 Tf 10 TL (-2.6%) Tj T* ET
 Q
 Q
 q
@@ -2826,20 +2826,20 @@ q
 1 0 0 1 66 159 cm
 q
 .392157 .392157 .478431 rg
-BT 1 0 0 1 0 24.7 Tm /F1 8.3 Tf 11 TL -0.063583 Tw (Each district\222s pages pair membership with its county\222s July 2022-2024 residents ages 5-17, using Census Vintage 2025. Population is) Tj T* 0 Tw (not an enrollment sector; district and county age/geographic coverage differ. Dividing the district count by county population would not) Tj T* (yield valid district market share. Edgecombe\222s 2024-25 boundary transition limits constant-boundary comparisons.) Tj T* ET
+BT 1 0 0 1 0 24.7 Tm /F1 8.3 Tf 11 TL (Each district\222s pages pair final ADM with its county\222s July 2022-2024 residents ages 5-17, using Census Vintage 2025. Population is) Tj T* (not an enrollment sector; district and county age/geographic coverage differ. Dividing the district count by county population would not) Tj T* (yield valid district market share. Edgecombe\222s 2024-25 boundary transition limits constant-boundary comparisons.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 66 130 cm
 q
-BT 1 0 0 1 0 13.7 Tm 11 TL /F1 8.3 Tf .145098 .129412 .658824 rg (NC DPI Table B1) Tj .392157 .392157 .478431 rg ( | ) Tj .145098 .129412 .658824 rg (Census county age estimates) Tj .392157 .392157 .478431 rg  T* .145098 .129412 .658824 rg (DNPE private-school directory) Tj T* ET
+BT 1 0 0 1 0 13.7 Tm 11 TL /F1 8.3 Tf .145098 .129412 .658824 rg (NC DPI Table A1 final ADM) Tj .392157 .392157 .478431 rg ( | ) Tj .145098 .129412 .658824 rg (Census county age estimates) Tj .392157 .392157 .478431 rg  T* .145098 .129412 .658824 rg (DNPE private-school directory) Tj T* ET
 Q
 Q
 q
 1 0 0 1 66 101 cm
 q
 .392157 .392157 .478431 rg
-BT 1 0 0 1 0 13.7 Tm /F1 8.3 Tf 11 TL (Source snapshots retain their published dates. Report updated November 5, 2026. District data and geographic notes follow on pages) Tj T* (4-5.) Tj T* ET
+BT 1 0 0 1 0 13.7 Tm /F1 8.3 Tf 11 TL (Source snapshots retain their published dates. Report updated November 6, 2026. District data and geographic notes follow on pages) Tj T* (4-5.) Tj T* ET
 Q
 Q
  
@@ -2896,7 +2896,7 @@ endobj
 endobj
 38 0 obj
 <<
-/Length 7665
+/Length 7644
 >>
 stream
 q
@@ -2915,7 +2915,7 @@ n 60 734 m 564 734 l S
 n 0 0 612 23 re f*
 1 1 1 rg
 BT /F1 7 Tf 8.4 TL ET
-BT 1 0 0 1 60 9 Tm (Updated November 5, 2026 | Cabarrus County data) Tj T* ET
+BT 1 0 0 1 60 9 Tm (Updated November 6, 2026 | Cabarrus County data) Tj T* ET
 BT 1 0 0 1 550.378 9 Tm (1 / 2) Tj T* ET
 .207843 .686275 .741176 rg
 n 541 29 m 552 29 l 555 39 l 544 39 l h
@@ -2951,7 +2951,7 @@ Q
 q
 1 0 0 1 66 630 cm
 q
-BT 1 0 0 1 0 16.5 Tm -0.048615 Tw 13 TL /F1 9.5 Tf .203922 .203922 .309804 rg (District month-2 membership changed ) Tj /F2 9.5 Tf (+1.6%) Tj /F1 9.5 Tf (; Cabarrus County residents ages 5-17 changed ) Tj /F2 9.5 Tf (+1.6%) Tj /F1 9.5 Tf (. These describe) Tj T* 0 Tw (different geographic units and do not identify student transfers or changes in district market share.) Tj T* ET
+BT 1 0 0 1 0 16.5 Tm 13 TL /F1 9.5 Tf .203922 .203922 .309804 rg (District final ADM changed ) Tj /F2 9.5 Tf (+1.2%) Tj /F1 9.5 Tf (; Cabarrus County residents ages 5-17 changed ) Tj /F2 9.5 Tf (+1.6%) Tj /F1 9.5 Tf (. These describe different) Tj T* (geographic units and do not identify student transfers or changes in district market share.) Tj T* ET
 Q
 Q
 q
@@ -2964,7 +2964,7 @@ BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 12 4 cm
 q
-BT 1 0 0 1 0 54 Tm 25 TL /F2 21 Tf .145098 .129412 .658824 rg (35,260) Tj  T* /F2 8.5 Tf (District membership) Tj  T* (Month 2 | 2024-25) Tj T* ET
+BT 1 0 0 1 0 54 Tm 25 TL /F2 21 Tf .145098 .129412 .658824 rg (34,999) Tj  T* /F2 8.5 Tf (District final ADM) Tj  T* (2024-25) Tj T* ET
 Q
 Q
 q
@@ -3026,7 +3026,7 @@ q
 1 0 0 1 106 74 cm
 q
 1 1 1 rg
-BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (District month-2 membership) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (District final ADM) Tj T* ET
 Q
 Q
 q
@@ -3054,7 +3054,7 @@ q
 1 0 0 1 106 51 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (34,721) Tj T* ET
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (34,593) Tj T* ET
 Q
 Q
 q
@@ -3082,7 +3082,7 @@ q
 1 0 0 1 106 28 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (35,055) Tj T* ET
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (34,889) Tj T* ET
 Q
 Q
 q
@@ -3110,7 +3110,7 @@ q
 1 0 0 1 106 5 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (35,260) Tj T* ET
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (34,999) Tj T* ET
 Q
 Q
 q
@@ -3135,7 +3135,7 @@ q
 1 0 0 1 66 385 cm
 q
 .392157 .392157 .478431 rg
-BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (* Population is estimated on July 1 of the school year\222s starting calendar year. All three years use Census Vintage 2025. District) Tj T* -0.0548 Tw (membership is NC DPI\222s published MLD total, not ADM. County population and district enrollment differ in age coverage and geography; do) Tj T* 0 Tw (not divide them to calculate district market share. [1-3]) Tj T* ET
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (* Population is estimated on July 1 of the school year\222s starting calendar year. All three years use Census Vintage 2025. District enrollment) Tj T* (uses NC DPI final ADM, an annual average of membership, not a point-in-time headcount. County population and district enrollment differ) Tj T* (in age coverage and geography; do not divide them to calculate district market share. [1-3]) Tj T* ET
 Q
 Q
 q
@@ -3331,7 +3331,7 @@ endobj
 endobj
 41 0 obj
 <<
-/Length 9181
+/Length 9438
 >>
 stream
 q
@@ -3350,7 +3350,7 @@ n 60 734 m 564 734 l S
 n 0 0 612 23 re f*
 1 1 1 rg
 BT /F1 7 Tf 8.4 TL ET
-BT 1 0 0 1 60 9 Tm (Updated November 5, 2026 | Cabarrus County data) Tj T* ET
+BT 1 0 0 1 60 9 Tm (Updated November 6, 2026 | Cabarrus County data) Tj T* ET
 BT 1 0 0 1 550.378 9 Tm (2 / 2) Tj T* ET
 .207843 .686275 .741176 rg
 n 541 29 m 552 29 l 555 39 l 544 39 l h
@@ -3592,7 +3592,7 @@ q
 1 0 0 1 66 485 cm
 q
 .392157 .392157 .478431 rg
-BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Shares use each school year\222s total across the four sectors. Changes are percentage points \(pp\), 2022-23 to 2024-25. These) Tj T* (county-associated administrative counts are not district-of-residence shares. Public charter schools are shown separately from) Tj T* (district-operated public schools. [2]) Tj T* ET
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Shares use each school year\222s total across the four sectors. District-public counts use the same final ADM records as the district snapshot.) Tj T* (Changes are percentage points \(pp\), 2022-23 to 2024-25. These county-associated administrative counts are not district-of-residence) Tj T* (shares. Public charter schools are shown separately from district-operated public schools. [2]) Tj T* ET
 Q
 Q
 q
@@ -3658,7 +3658,7 @@ q
 1 0 0 1 298 97 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (40,233) Tj T* ET
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (40,195) Tj T* ET
 Q
 Q
 q
@@ -3770,7 +3770,7 @@ q
 1 0 0 1 298 5 cm
 q
 .203922 .203922 .309804 rg
-BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (49,538) Tj T* ET
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (49,500) Tj T* ET
 Q
 Q
 q
@@ -3812,14 +3812,14 @@ q
 1 0 0 1 66 210 cm
 q
 .392157 .392157 .478431 rg
-BT 1 0 0 1 0 42 Tm /F1 8 Tf 10 TL ([1] NC DPI Table B1: school month 2, membership last day \(MLD\), 2022-23 through 2024-25; published total column retained, distinct from) Tj T* -0.039529 Tw (ADM. [2] myFutureNC / Carolina Demography, 2024, 2025 and 2026 county files: matching-year 2022-23, 2023-24 and 2024-25 enrollment) Tj T* 0 Tw (sectors. [3] Census Vintage 2025 county estimates, ages 5-17, July 2022-2024; NC DNPE homeschool annual reports; NCHE) Tj T* (registry-cleanup context. [4] NCSEAA final year-end exports, county-resident funds and recipients. [5] DNPE private-school directory,) Tj T* (January 2026 snapshot.) Tj T* ET
+BT 1 0 0 1 0 42 Tm /F1 8 Tf 10 TL ([1] NC DPI Table A1: final ADM, 2022-23 through 2024-25, retrieved November 6, 2026; used for district series and county public-sector) Tj T* (totals. [2] myFutureNC / Carolina Demography, 2024-2026 county files: matching-year sector counts. District public refreshed from current) Tj T* (DPI final ADM; some 2023-24 totals differ from the archived compilation. [3] Census Vintage 2025 county estimates, ages 5-17, July) Tj T* (2022-2024; NC DNPE homeschool annual reports; NCHE registry-cleanup context. [4] NCSEAA final year-end exports, county-resident) Tj T* (funds and recipients. [5] DNPE private-school directory, January 2026 snapshot.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 66 175 cm
+1 0 0 1 66 165 cm
 q
 .392157 .392157 .478431 rg
-BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Cabarrus County also includes part of Kannapolis City Schools. This is a county comparison, not a count inside Cabarrus County Schools) Tj T* (boundaries. Shared-county values repeat in multiple district reports; do not sum duplicate county figures. Sector age coverage and) Tj T* (cross-county attendance limit resident-child comparisons. Official source links appear in the network overview.) Tj T* ET
+BT 1 0 0 1 0 32 Tm /F1 8 Tf 10 TL (Cabarrus County also includes part of Kannapolis City Schools. This is a county comparison, not a count inside Cabarrus County Schools) Tj T* (boundaries. Shared-county values repeat in multiple district reports; do not sum duplicate county figures. Sector age coverage and) Tj T* (cross-county attendance limit resident-child comparisons. County public totals follow the compilation: Kannapolis is grouped with Cabarrus;) Tj T* (Rowan includes Rowan-Salisbury only. Official source links appear in the network overview.) Tj T* ET
 Q
 Q
  
@@ -3897,19 +3897,19 @@ xref
 0000004031 00000 n 
 0000004065 00000 n 
 0000004173 00000 n 
-0000018784 00000 n 
-0000019093 00000 n 
-0000019201 00000 n 
-0000032689 00000 n 
-0000032998 00000 n 
-0000033106 00000 n 
-0000048170 00000 n 
-0000048479 00000 n 
-0000048587 00000 n 
-0000056305 00000 n 
-0000056614 00000 n 
-0000056722 00000 n 
-0000065956 00000 n 
+0000018836 00000 n 
+0000019145 00000 n 
+0000019253 00000 n 
+0000032741 00000 n 
+0000033050 00000 n 
+0000033158 00000 n 
+0000048292 00000 n 
+0000048601 00000 n 
+0000048709 00000 n 
+0000056406 00000 n 
+0000056715 00000 n 
+0000056823 00000 n 
+0000066314 00000 n 
 trailer
 <<
 /Size 43
@@ -3917,5 +3917,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-66265
+66623
 %%EOF
